@@ -1,3 +1,4 @@
+/* General styles for the entire webpage, including body, a and p elements. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Styles for the header, including h1 and nav elements. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styles for the hero image at the top of the page. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Styles for the main content, or the marketing services that are offered by Horiseon */
 .services {
     width: 75%;
     display: inline-block;
@@ -93,6 +97,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styles for the side nav, or the marketing benefits that can come from hiring Horiseon. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +125,7 @@ p {
     max-width: 150px;
 }
 
+/* Styles for the footer. */
 .footer {
     padding: 30px;
     clear: both;
