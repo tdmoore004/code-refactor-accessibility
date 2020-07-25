@@ -17,8 +17,8 @@ a {
 
 p {
     font-size: 18px;
-    line-height: 26px;
-    letter-spacing: 0.5px;
+    line-height: 24px;
+    letter-spacing: 0.25px;
 }
 
 /* Styles for the header, including h1 and nav elements. */
@@ -88,7 +88,7 @@ p {
 .marketing-service h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.25px;
 }
 
 .float-left {
@@ -121,7 +121,7 @@ p {
 .marketing-benefit h3 {
     margin-bottom: 10px;
     text-align: center;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.25px;
 }
 
 .marketing-benefit img {
@@ -140,5 +140,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.25px;
 }
