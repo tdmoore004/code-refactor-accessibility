@@ -17,7 +17,7 @@ a {
 
 p {
     font-size: 18px;
-    line-height: 24px;
+    line-height: 26px;
     letter-spacing: 0.25px;
 }
 
@@ -116,6 +116,7 @@ p {
 .marketing-benefit {
     margin-bottom: 32px;
     color: #000000;
+    line-height: 20px;
 }
 
 .marketing-benefit h3 {
