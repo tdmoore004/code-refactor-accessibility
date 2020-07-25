@@ -6,5 +6,7 @@ For this project we were tasked with taking the existing code of a marketing age
 
 ## Screenshot of Webpage
 
+![Horiseon: Helping Build Your Brand in a Digital World](./assets/screenshot/CodeRefactoring_HoriseonWebpage_Screenshot.jpg)
+
 ## Link to Webpage
 
