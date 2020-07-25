@@ -10,4 +10,4 @@ For this project we were tasked with taking the existing code of a marketing age
 
 ## Link to Webpage
 
-![Horiseon: Helping Build Your Brand in a Digital World](https://tdmoore004.github.io/code-refactor-accessibility/)
+[Horiseon: Helping Build Your Brand in a Digital World](https://tdmoore004.github.io/code-refactor-accessibility/)
